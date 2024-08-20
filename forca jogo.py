@@ -1,4 +1,4 @@
-palavra = "python"
+palavra = "programa"
 
 letras_usuario = []
 
